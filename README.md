@@ -1,2 +1,2 @@
-# RP
-bajenapisemokrneki
+# racunalniski praktikum
+nekaj napisemo
