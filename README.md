@@ -1,2 +1,2 @@
-# racunalniski praktikum
+# Računalniški praktikum
 nekaj napisemo
